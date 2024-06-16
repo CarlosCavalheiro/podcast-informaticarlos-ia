@@ -16,6 +16,7 @@
 
 <div align="center">
     <audio src="output/audio_editado_ep1.MP3" controls title="Podcast editado"></audio>
+    <p>/output/audio_editado_pe1.mp3</p>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -45,6 +46,13 @@ ChatGPT：
 
 - Audio gerado pela elevenLabs
 - Copilot Para gerar capa/logo
+
+Copilot:
+
+|   Ação   | prompt |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  capa podcast  | Crie uma imagem de capa para esse pod cast: “Byte Talks” é um pod cast que atua com discussões curtas e envolventes sobre tópicos como segurança cibernética, IA, design de UX e muito mais, seu publico gosta de games e tecnologias. |
+
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 👨‍💻 Desenvolvimento

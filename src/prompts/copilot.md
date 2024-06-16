@@ -1,0 +1,1 @@
+Crie uma imagem de capa para esse pod cast: “Byte Talks” é um pod cast que atua com discussões curtas e envolventes sobre tópicos como segurança cibernética, IA, design de UX e muito mais, seu publico gosta de games e tecnologias.
