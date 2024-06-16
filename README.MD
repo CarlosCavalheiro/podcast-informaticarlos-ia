@@ -5,31 +5,20 @@
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+<center>
+<h1>Byte Talks - Um passeio nos bytes do Desenvolvimento Web</h1>
+<h3>Epsódio I: "Aranhaverso Ágil: Teias do Scrum e Kanban"</h3>
+</center>
 
 <p align="center">
-    preview do podcast
+    preview do podcast Ep-01
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/audio_editado_ep1.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -38,62 +27,46 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilolt](https://copilot.microsoft.com//)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Nome do PodCas, Titulo do Episódio e Conteúdo gerado via chatgpt
+
+ChatGPT：
+
+|   Ação   | prompt |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  nome podcast  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em desenolvimento de aplicações web. Preciso de 5 sugestões de nomes criativos para esse podcast. O podcast vai falar sobre dicas e novidades sobre o mundo do desenvolvimento e o que está acontecendo no mercado {REGRAS} O nome deve ser enxuto. O nome deve conter alguma palavra forte que remeta ao uso de computadores e seja nerd |
+|  título  | Crie um título de um podcast sobre Desenvolvimento Ágil: Aborde metodologias ágeis, como Scrum e Kanban, e como elas melhoram a eficiência do desenvolvimento, o título deve ser épico e curto, e tenha uma temática de homem aranha no aranhaverso, me liste 5 variações de títulos                                                       |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em desenvolvimento de aplicações web cujo o nome é "Byte Talks",  com o público alvo de iniciantes em desenvolvimento web. O formato do roteiro deve ser [INTRODUÇÃO][CURIOSIDADE 1][CURIOSIDADE 2][FINALIZAÇÃO] {REGRAS}- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei byte' e introduza o conceito de Desenvolvimento Ágil - no bloco [CURIOSIDADE 1] substitua por uma curiosidade do Scrum aplicao do desenolvimento web - no bloco [CURIOSIDADE 2] descreve sobre a possibilidade usar Kanban e como poderia ser util - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Carlos Cavalheiro e esse foi o Bytes e Talks dessa semana' - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Carlos Cavalheiro - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 5 minutos de duração |
+
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Copilot Para gerar capa/logo
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
+## 👨‍💻 Desenvolvimento
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/58004969?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp Carlos Alexandre Cavalheiro<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/CarlosCavalheiro">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/cavalheiro-ca/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
